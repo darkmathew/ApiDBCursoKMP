@@ -1,5 +1,7 @@
 # Documentação da API
 
+**URL da API:** [https://apidbcursokmp.onrender.com](https://apidbcursokmp.onrender.com)
+
 ## Descrição
 
 Esta é uma API de exemplo que serve como um serviço web atrelado a um banco de dados. Ela foi projetada para ser consumida por uma aplicação KMP. A API permite a criação e autenticação de usuários, bem como a criação, atualização e exclusão de itens.
